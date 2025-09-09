@@ -1,6 +1,6 @@
 # Hola, soy Bernardo 👋
 
-![bat](images/gif-murcielago-1.gif)
+![bat](images/gif-murcielago-2.gif)
 
 ## 💻 Lenguajes:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
